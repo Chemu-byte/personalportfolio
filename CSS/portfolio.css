@@ -42,8 +42,30 @@ h2{
 h1{
     color: darkcyan;
 }
+#myform{
+    background-color: blanchedalmond;
+    margin: 0px;
+    padding: 20px;
+    border-radius: 3px;
+    border: 5px solid darkslateblue;
+}
+#name{
+    text-align: center;
+    color: blue;
+}
+label{
+    font-weight: bolder;
+    display: block;
+}
+input,textarea{
+    border: 5px solid brown;
+    width: 100%;
+    border-radius: 5px;
+    padding: 5px;
+}
 footer{
     background-color: aquamarine;
     color: chocolate;
     padding: 10px;
+    text-align: center;
 }
